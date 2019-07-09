@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "title": "Valve V101",
+    "name": "TIC1",
+    "metres": "toggle"
+  },
+  {
+    "id": 1,
+    "title": "Tank T401",
+    "name": "TIC2",
+    "metres": "liter"
+  },
+  {
+    "id": 2,
+    "title": "Tank T402",
+    "name": "TIC3",
+    "metres": "liter"
+  },
+  {
+    "id": 3,
+    "title": "Tank T403",
+    "name": "TIC4",
+    "metres": "liter"
+  }
+]
