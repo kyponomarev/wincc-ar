@@ -3,7 +3,7 @@ This project demonstrates the capabilities of augmented reality for industrial c
 
 This is just a demo project. Do not use it for real industrial facilities. 
 
-![../blob/reamde/public/tags.json](demo.gif)
+![../blob/master/public/tags.json](demo.gif)
 
 # Usage
 ## Print Matrix Barcode
